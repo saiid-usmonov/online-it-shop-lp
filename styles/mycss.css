@@ -1,0 +1,69 @@
+@import url(" https://fonts.googleapis.com/css?family=Michroma&display=swap ");
+
+/* 6 46 15 */
+
+body{
+    font-family: Michroma, serif;
+    background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+}
+p{
+    color: aqua;
+}
+.nav-link{
+    color: aqua;
+}
+
+.navbar-nav .nav-link.active{
+    color: rgb(143,142,142);
+}
+.navbar-brand img{
+    width:40px;
+}
+.navbar-toggler{
+    background-color: rgb(159, 157, 157);
+}
+.sidebar{
+    color: aqua;
+    background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+
+}
+.card{
+    background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+    color:aqua;
+}
+.card a{
+    text-decoration : none;
+    color:aqua;
+}
+.slide-text,
+.footer-text {
+    color: aqua;
+    margin: auto auto;
+}
+footer
+.btn-outline-primary{
+    background: linear-gradient(270deg, #0000fd 0%, #000000 100%);
+}
+.madia-links{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.call-anim{
+    animation: myAnim 2s ease 0s 1 normal forwards;
+}
+@keyframes myAnim {
+	0%,
+	50%,
+	100% {
+		opacity: 1;
+	}
+
+	25%,
+	75% {
+		opacity: 0;
+	}
+}
+.Geb{
+    float: right;
+}
