@@ -1,5 +1,7 @@
 # online-it-shop-lp
-Online IT-Shop Webpage HTML, CSS, Carousel-Slider-Feature
+## Online IT-Shop Webpage HTML, CSS, multi-pages
+### Semantic Components: Carousel-Slider-Feature, Navbar, Footer
+### File Components: index, contact, pricing FIles, Images: IT-Devices, Contact Icons, Stock Corporate Icons.
 
 ![image](https://github.com/user-attachments/assets/eef3cfd1-224c-454d-9f9f-1de4a561ebc6)
 ![image](https://github.com/user-attachments/assets/ef063766-fd6b-462d-b2ca-dbde0c17096c)
