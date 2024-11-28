@@ -1,2 +1,2 @@
 # online-it-shop-lp
-Online IT-Shop Webpage HTML, CSS, Carousel
+Online IT-Shop Webpage HTML, CSS, Carousel-Slider-Feature
