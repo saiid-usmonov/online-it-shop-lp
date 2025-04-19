@@ -1,24 +1,31 @@
-**Online IT-Shop Webseite (HTML, CSS, Multi-Page)**
+# Online IT Shop Website (SQL, relational Database, PHP, JavaScript, HTML, CSS, Multi-Page)
 
-Diese Webseite dient als Online-Shop für IT-Geräte und wurde mit HTML und CSS umgesetzt. Sie umfasst mehrere Seiten und nutzt verschiedene Design- und Layout-Techniken, um eine benutzerfreundliche Erfahrung zu gewährleisten.
+This website serves as an online shop for IT devices and was implemented using SQL, PHP, JavaScript, HTML and CSS. It consists of multiple pages and utilizes various design and layout techniques to ensure a user-friendly experience. Users can register and log in, and all data provided by the user is stored in an SQL database.
 
-**Verwendete Komponenten:**  
-- **Semantische Komponenten:** Carousel-Slider (zur Darstellung von Produkten), Navbar (Navigation), Footer (Seitenabschluss)  
-- **Dateikomponenten:**  
-  - `index.html` (Startseite)  
-  - `contact.html` (Kontaktseite)  
-  - `pricing.html` (Preisübersicht)  
-- **Bilder:**  
-  - IT-Geräte (Produktbilder)  
-  - Kontakt-Icons (für Kontaktmöglichkeiten)  
-  - Stock-Corporate-Icons (für allgemeine Unternehmensdarstellung)  
+## Used Components
 
-**Technologien:**  
-- HTML5  
-- CSS3 (einschließlich Flexbox und Grid)  
-- Responsive Design  
+- **Semantic Components:**
+  - Carousel slider (for product display)
+  - Navbar (navigation)
+  - Footer (page footer)
 
-Die Webseite ist so strukturiert, dass sie auf verschiedenen Geräten gut aussieht und benutzerfreundlich bleibt.
+- **File Components:**
+  - `index.php` (Register & Login)
+  - `index.html` (Home page)
+  - `contact.html` (Contact page)
+  - `pricing.html` (Pricing overview)
+
+## Technologies
+
+- SQL
+- PHP
+- JavaScript
+- HTML5
+- CSS3 (including Flexbox and Grid)
+- Responsive Design
+
+The website is structured to look good and remain user-friendly across different devices.
+
 
 Screenshots:
 ![image](https://github.com/user-attachments/assets/eef3cfd1-224c-454d-9f9f-1de4a561ebc6)
