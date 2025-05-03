@@ -1,5 +1,14 @@
 # Online IT Shop Website (SQL, relational Database, PHP, JavaScript, HTML, CSS, Multi-Page)
 
+## Technologies
+
+- SQL
+- PHP
+- JavaScript
+- HTML5
+- CSS3 (including Flexbox and Grid)
+- Responsive Design
+
 This website serves as an online shop for IT devices and was implemented using SQL, PHP, JavaScript, HTML and CSS. It consists of multiple pages and utilizes various design and layout techniques to ensure a user-friendly experience. Users can register and log in, and all data provided by the user is stored in an SQL database.
 
 ## Used Components
@@ -14,15 +23,6 @@ This website serves as an online shop for IT devices and was implemented using S
   - `index.html` (Home page)
   - `contact.html` (Contact page)
   - `pricing.html` (Pricing overview)
-
-## Technologies
-
-- SQL
-- PHP
-- JavaScript
-- HTML5
-- CSS3 (including Flexbox and Grid)
-- Responsive Design
 
 The website is structured to look good and remain user-friendly across different devices.
 
